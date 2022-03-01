@@ -1,2 +1,2 @@
 # css-variables
-An example for you to create variables in css.
+An example for you about how to create variables in css.
